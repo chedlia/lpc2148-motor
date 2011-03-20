@@ -263,7 +263,7 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>7</ColumnNumber>
+      <ColumnNumber>9</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
       <TopLine>1</TopLine>
       <CurrentLine>11</CurrentLine>
@@ -282,7 +282,7 @@
       <Documents>
         <Doc>
           <Name>.\lpc_project.c</Name>
-          <ColumnNumber>7</ColumnNumber>
+          <ColumnNumber>9</ColumnNumber>
           <TopLine>1</TopLine>
           <CurrentLine>11</CurrentLine>
         </Doc>
