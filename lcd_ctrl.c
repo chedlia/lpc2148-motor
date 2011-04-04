@@ -3,7 +3,7 @@
 #include "lcd_ctrl.h"
 #include "tools.h"
 
-#define __DELAY	   20
+#define __DELAY	   5
 
 void lcd_command(char type, unsigned char x) //type: 0-instruction; 1-data
 {
